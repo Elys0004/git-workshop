@@ -3,6 +3,8 @@ What is Git ?
 
 Git is a *distributed* **version control** system [1]
 
+![](https://media.giphy.com/media/swmdYPWaqvyxEomBer/giphy.gif)
+
 [1] <a href="http://git-scm.com/about">http://git-scm.com/about</a>
 
 Getting Git
